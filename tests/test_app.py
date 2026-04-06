@@ -31,3 +31,7 @@ def test_divide_by_zero():
 def test_power():
     assert power(2, 3) == 8
     assert power(5, 0) == 1
+
+
+def test_multiply():
+    assert multiply(2, 3) == 6
