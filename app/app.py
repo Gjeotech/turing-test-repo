@@ -1,4 +1,4 @@
-# app/app.py code 
+# app/app.py code for testing
 
 def add(a, b):
     """Return the sum of two numbers."""
