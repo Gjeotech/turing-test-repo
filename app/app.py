@@ -25,3 +25,7 @@ def divide(a, b):
 def power(a, b):
     """Return a raised to the power of b."""
     return a ** b
+
+
+def multiply(a, b):
+    return a * b
