@@ -5,6 +5,10 @@ Testing pull request workflow
 ## Features
 - Simple utility functions
 - Unit tests with pytest
+- ## New Features
+- Multiply function
+- Subtract function
+- Improved divide handling
 
 ## Run tests
 ```bash

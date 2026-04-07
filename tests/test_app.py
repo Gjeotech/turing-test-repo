@@ -3,6 +3,10 @@
 import pytest
 from app.app import add, subtract, multiply, divide, power
 
+from utils import square
+
+def test_square():
+    assert square(4) == 16
 
 def test_add():
     assert add(2, 3) == 5
